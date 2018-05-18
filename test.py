@@ -1,1 +1,2 @@
 import itertools
+print("hi")
